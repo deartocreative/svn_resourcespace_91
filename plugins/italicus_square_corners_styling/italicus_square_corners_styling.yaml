@@ -1,0 +1,5 @@
+name: italicus_square_corners_styling
+author: Steven Olver
+version: 1.0.0
+desc: Plugin for square corners
+default_priority: 500
